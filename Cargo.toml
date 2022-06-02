@@ -3,6 +3,12 @@ name = "kexplain"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
+authors = ["Ashkan Kiani"]
+description = "Derive explanations for functions by 'showing the work' for things like math"
+readme = "README.md"
+homepage = "https://github.com/norcalli/kexplain/"
+repository = "https://github.com/norcalli/kexplain/"
+keywords = ["explain"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
